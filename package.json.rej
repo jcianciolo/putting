@@ -1,0 +1,8 @@
+diff a/package.json b/package.json	(rejected hunks)
+@@ -1,5 +1,5 @@
+ {
+-  "name": "indecision-app",
++  "name": "putting_app",
+   "version": "1.0.0",
+   "main": "index.js",
+   "scripts": {
